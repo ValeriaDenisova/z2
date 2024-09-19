@@ -1,0 +1,16 @@
+.TotalBasket{
+    background-color: #fff;
+    display: flex;
+    justify-content: flex-end;
+    padding-top: 20px;
+    padding-bottom: 90px;
+
+    font-weight: 700;
+    font-size: 18px;
+}
+
+.TotalBasket span{
+    display: inline-block;
+    margin-left: 50px;
+    margin-right: 120px;
+}

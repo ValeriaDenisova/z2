@@ -1,0 +1,16 @@
+.Controls {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  padding: 20px;
+}
+
+
+span.Controls-basket{
+  font-weight: 700;
+}
+
+.Controls button{
+  display: inline-block;
+  margin-left: 50px;;
+}
